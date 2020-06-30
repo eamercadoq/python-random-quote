@@ -12,3 +12,8 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+This is just a proof
+Get new ideas
+Learn to do the thing that qou need to do
+Learn to write and edit programmatically 
+schedule jobs using python
