@@ -14,8 +14,9 @@ def Itiswhatitis():
   #That allow me to update automatically the RND the number of variables inside my array.
   rnd = random.randint(0, last)
   
-  print(quotes[18])
+  print(quotes[rnd], quotes[rnd], quotes[rnd], sep="\n")  
   #When you want to look for a specific items inside an array, use the [] modifier to tell Python that you are looking for an specific item inside the array.  
   #Remember that arrays always start at 0, so take it into account when you are lloking for an specific line
 if __name__== "__main__":
   Itiswhatitis()
+
